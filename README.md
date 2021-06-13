@@ -2,4 +2,4 @@ A Selenium based automation tool for reading and updating mark details in Univer
 
 This project uses Selenium chrome driver to automate the workflow in chrome.
 
-To read data from xcel sheets temproray oledb has been used
+To read data from xcel sheets temporary oledb has been used
